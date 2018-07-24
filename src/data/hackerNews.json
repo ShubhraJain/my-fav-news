@@ -1,0 +1,126 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "Jiayang Fan",
+            "title": "How E-Commerce Is Transforming Rural China",
+            "description": "JD.com is expanding its consumer base with drone delivery and local recruits who can exploit villages’ tight-knit social networks to drum up business.",
+            "url": "https://www.newyorker.com/magazine/2018/07/23/how-e-commerce-is-transforming-rural-china",
+            "urlToImage": "https://media.newyorker.com/photos/5b465113da42df0b560981d3/16:9/w_1200,h_630,c_limit/180723_r32444_rd.jpg",
+            "publishedAt": "2018-07-23T15:23:34.5924759Z"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Optimizing a breadth-first search",
+            "description": "Optimizing a breadth-first search of an implicit graph for secondary storage, and memory use in general.",
+            "url": "https://www.snellman.net/blog/archive/2018-07-23-optimizing-breadth-first-search/",
+            "urlToImage": "https://www.snellman.net/blog/stc/images/sb-thumb.png",
+            "publishedAt": "2018-07-23T14:37:49.5835552Z"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Xv6, a simple Unix-like teaching operating system",
+            "description": null,
+            "url": "https://pdos.csail.mit.edu/6.828/2017/xv6.html",
+            "urlToImage": null,
+            "publishedAt": "2018-07-23T13:52:06.1462822Z"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Google: Security Keys Neutralized Employee Phishing",
+            "description": null,
+            "url": "https://krebsonsecurity.com/2018/07/google-security-keys-neutered-employee-phishing/",
+            "urlToImage": null,
+            "publishedAt": "2018-07-23T13:37:07.229289Z"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "Jeff Kaufman",
+            "title": "Whole House Fan and Evaporative Cooler",
+            "description": "In dry climates it's common for people to use evaporative (\"swamp\") coolers; same idea as sweat evaporating off your skin cooling you off. The downside is that they increase humidity in the air, and if it's already pretty humid then that can make things uncom…",
+            "url": "https://www.jefftk.com/p/whole-house-fan-evaporative-cooler",
+            "urlToImage": null,
+            "publishedAt": "2018-07-23T09:37:51.5503396Z"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "Joshua Keating",
+            "title": "When is a nation not a nation? Somaliland’s dream of independence",
+            "description": "The long read: Though unrecognised by the international community, this self-declared state in the Horn of Africa has its own flag, parliament, currency and national identity. What has to happen before its status changes? By Joshua Keating",
+            "url": "https://www.theguardian.com/news/2018/jul/20/when-is-a-nation-not-a-nation-somalilands-dream-of-independence",
+            "urlToImage": "https://i.guim.co.uk/img/media/5d94c05ec8ff7b35ca43d0ffef91b98f934b558c/130_0_4126_2475/master/4126.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc=&s=01e04088c2a0a29a6225a76ebe24122c",
+            "publishedAt": "2018-07-20T11:42:09Z"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Efficiency Gains of Optical Interconnects at Exascale",
+            "description": "This year at the International Supercomputing Conference (ISC) Dr. Keren Bergman from the Lightwave Research Lab at Columbia University detailed the road",
+            "url": "https://www.nextplatform.com/2018/07/19/efficiency-gains-of-optical-interconnects-at-exascale/",
+            "urlToImage": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/fabric.jpg",
+            "publishedAt": "2018-07-19T22:05:00Z"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Open sourcing oomd, a new approach to handling OOMs",
+            "description": "Facebook Open Source",
+            "url": "https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/",
+            "urlToImage": "https://code.fb.com/wp-content/uploads/2018/07/testy.png?w=640",
+            "publishedAt": "2018-07-19T17:01:00Z"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "David Power",
+            "title": "A year on — our experience launching a paid, proprietary product on Linux.",
+            "description": "The journey so far",
+            "url": "https://blog.hiri.com/a-year-on-our-experience-launching-a-paid-proprietary-product-on-linux-db4f9116be08",
+            "urlToImage": "https://cdn-images-1.medium.com/max/1200/1*CcNpBANv8-wdfiZGkEHEyA.png",
+            "publishedAt": "2018-07-16T11:33:57Z"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Automatic Algorithms Optimization via Fast Matrix Exponentiation",
+            "description": "Preface Hi! My name is Alexander Borzunov. This article is the translation of my original publication. Sharing my work with English-speaking community and happy to answer all the questions.\n Suppose we want to calculate a tenth million Fibonacci number with a…",
+            "url": "https://kukuruku.co/post/automatic-algorithms-optimization-via-fast-matrix-exponentiation/",
+            "urlToImage": "https://s3.amazonaws.com/kukuruku-co/uploads/topics/preview/00/00/01/21/e61ef6ab46_300crop.jpg",
+            "publishedAt": "2015-01-10T19:24:43Z"
+        }
+    ]
+}
