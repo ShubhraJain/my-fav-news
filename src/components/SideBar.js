@@ -21,6 +21,9 @@ class SideBar extends Component {
     render() {
         return (
             <div className="article-source">
+                <li className="all-news" 
+                    onClick={() => this.props.onClick('All')}>
+                    All In One</li>
                 {this.renderSources()}
             </div>
         )

@@ -23,7 +23,7 @@ body {
 }
 
 .article-source ul {
-    margin-top: 70px;
+    /* margin-top: 70px; */
     display: grid;
     grid-gap: 30px;
     font-size: 20px;
@@ -37,7 +37,7 @@ body {
     list-style-type: none;
 }
 
-.source-name:hover {
+.source-name:hover, .all-news:hover {
     cursor: pointer;
 }
 
@@ -59,7 +59,11 @@ body {
 
 .all-news {
     padding-left: 40px;
+    padding-bottom: 15px;
     margin-top: 70px;
+    margin-bottom: 50px;
     font-size: 20px;
     color: var(--font);
+    list-style-type: none;
+    border-bottom: 1px solid var(--font);
 }
