@@ -2,8 +2,9 @@ import React, { Component } from 'react';
 // import data from '../data/hackerNews.json';
 import SideBar from './SideBar';
 import MainContent from './MainContent';
-import newsSources from '../lib/apiKey';
+import newsSources from '../lib/allSources';
 import axios from 'axios';
+import key from '../lib/apiKey';
 
 class App extends Component {
   constructor(props) {
@@ -19,7 +20,6 @@ class App extends Component {
   }
   
   loadNews() {
-    const key = '7ec31a28b88f410cb577a4960616edf6';
     newsSources.map( (source) => {
       axios.get(`https://newsapi.org/v2/top-headlines?sources=${source}&apiKey=${key}`)
         .then( res => {
